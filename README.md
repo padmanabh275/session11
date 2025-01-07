@@ -4,8 +4,11 @@ A Byte-Pair Encoding (BPE) tokenizer specifically trained for Hindi language tex
 
 ## Statistics
 
-- Vocabulary Size: 4,800 tokens
-- Compression Ratio: 3.4
+- Vocabulary Size:                  ██████████████████████████████████████████████ 3193     /     3193
+-  Count pairs                    ██████████████████████████████████████████████ 3193     /     3193
+-  Compute merges                 ██████████████████████████████████████████████ 2209     /     2209
+Vocabulary size: 2377 tokens
+- Compression Ratio: 3.82
 
 ## Usage
 
