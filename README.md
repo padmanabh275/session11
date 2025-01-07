@@ -22,4 +22,4 @@ The tokenizer was trained on a curated corpus of Hindi text including:
 
 ## HuggingFace Space
 
-Try out the tokenizer in our [HuggingFace Space](https://huggingface.co/spaces/[your-username]/hindi-bpe-tokenizer)
+Try out the tokenizer in our [HuggingFace Space](https://huggingface.co/spaces/padmanabhbosamia/Hindi_Tokenizer)
