@@ -15,10 +15,7 @@ A Byte-Pair Encoding (BPE) tokenizer specifically trained for Hindi language tex
 ## Training Data
 
 The tokenizer was trained on a curated corpus of Hindi text including:
-- News articles
-- Literature
-- Social media content
-- Government documents
+- Bhaskar.com - Bhaskar News Paper Site Using Beautiful Soup - Limiting the article to only India, Science, History. 
 
 ## HuggingFace Space
 
